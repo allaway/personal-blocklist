@@ -1,17 +1,17 @@
 # personal sites to block
 
-0.0.0.0 (\.|^)amazon\.com$
-0.0.0.0 (\.|^)fordtransitusaforum\.com$
-0.0.0.0 (\.|^)sierra\.com$
-0.0.0.0 (\.|^)oiselle\.com$
-0.0.0.0 (\.|^)lululemon\.com$
-0.0.0.0 (\.|^)tjmaxx\.com$
-0.0.0.0 (\.|^)reddit\.com$
-0.0.0.0 (\.|^)twitter\.com$
-0.0.0.0 (\.|^)linkedin\.com$
-0.0.0.0 (\.|^)roka\.com$
-0.0.0.0 (\.|^)marshalls\.com$
-0.0.0.0 (\.|^)costco\.com$
-0.0.0.0 (\.|^)jcrew\.com$
-0.0.0.0 (\.|^)walmart\.com$
-0.0.0.0 (\.|^)ulta\.com$
+0.0.0.0 www.amazon.com
+0.0.0.0 www.fordtransitusaforum.com
+0.0.0.0 www.sierra.com
+0.0.0.0 www.oiselle.com
+0.0.0.0 www.lululemon.com
+0.0.0.0 www.tjmaxx.com
+0.0.0.0 www.reddit.com
+0.0.0.0 www.twitter.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 www.roka.com
+0.0.0.0 www.marshalls.com
+0.0.0.0 www.costco.com
+0.0.0.0 www.jcrew.com
+0.0.0.0 www.walmart.com
+0.0.0.0 www.ulta.com
