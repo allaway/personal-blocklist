@@ -1,0 +1,17 @@
+# personal sites to block
+
+0.0.0.0 amazon.com
+0.0.0.0 fordtransitusa.com
+0.0.0.0 sierra.com
+0.0.0.0 oiselle.com
+0.0.0.0 lululemon.com
+0.0.0.0 tjmaxx.com
+0.0.0.0 reddit.com
+0.0.0.0 twitter.com
+0.0.0.0 linkedin.com
+0.0.0.0 roka.com
+0.0.0.0 marshalls.com
+0.0.0.0 costco.com
+0.0.0.0 jcrew.com
+0.0.0.0 walmart.com
+0.0.0.0 ulta.com
