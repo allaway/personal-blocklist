@@ -15,3 +15,4 @@
 0.0.0.0 www.jcrew.com
 0.0.0.0 www.walmart.com
 0.0.0.0 www.ulta.com
+0.0.0.0 www.harperwilde.com
